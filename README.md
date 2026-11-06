@@ -1,0 +1,1 @@
+# Esercitazione_pratica_Angular_e_Git-_Open_Day_Galvani
